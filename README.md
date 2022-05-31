@@ -2,7 +2,7 @@
 
 This is the front page for Team Austria. We are finding (world record) prime numbers.
 
-Team Austria was created 2008-10-29 and has 30+ members, mostly inactive.
+Team Austria was founded 2008-10-29 probably by user "EPF" and has 30+ members, mostly inactive.
 
 This page exists since 2022.
 
