@@ -6,7 +6,7 @@ Team Austria was founded 2008-10-29 probably by user "EPF" and has 30+ members, 
 
 This page exists since 2022.
 
-If you have any issues or comments please open an Issue.
+If you have any concerns or comments please open an Issue.
 
 # Links
 
