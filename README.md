@@ -1,6 +1,6 @@
 # Mersenne Team Austria
 
-This is the front page for Team Austria. We are finding (world record) prime numbers.
+This is the front page for Team Austria. We are discovering (world record) prime numbers.
 
 Team Austria was founded 2008-10-29 probably by user "EPF" and has 30+ members, mostly inactive.
 
